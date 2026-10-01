@@ -20,13 +20,6 @@
 4. Interactividad con js/portafolio.js: Se incorporó código de JavaScript vainilla para funciones básicas y navegación fluida.
 5. Despliegue en GitHub Pages: Se subieron todos los archivos al repositorio público de GitHub y se activó GitHub Pages en línea.
 
-## Capturas de Pantalla
-* Vista general del portafolio en el navegador:
-![Vista General](img/index.png)
 
-* Sección de proyectos y habilidades:
-![Proyectos y Skills](img/proyectos.png)
 
-## Enlaces
-* Repositorio en GitHub: [https://github.com/usuario/portafolio](https://github.com/usuario/portafolio)
-* GitHub Pages (Sitio en vivo): [https://usuario.github.io/portafolio](https://usuario.github.io/portafolio)
+
