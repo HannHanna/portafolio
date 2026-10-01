@@ -10,7 +10,7 @@
 * **Framework CSS:** Bootstrap 5 mediante CDN.
 * **Plantilla específica:** Basada en componentes de Bootstrap para páginas de presentación.
 * **Secciones:** Inicio, Sobre mí, Skills, Proyectos y Contacto.
-* **Link de la plantilla:** [https://getbootstrap.com/docs/5.3/examples/](https://getbootstrap.com/docs/5.3/examples/)
+* **Link de la plantilla:** [https://getbootstrap.com/docs/5.3/examples/]( https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 
 
 ## Proceso de Creación (Paso a Paso)
